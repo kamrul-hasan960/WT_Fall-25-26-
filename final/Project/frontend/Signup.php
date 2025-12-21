@@ -1,34 +1,23 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Sign In</title>
+        <title>Sign Up</title>
     </head>
     <body>
-        <nav class = "navbar">
+         <nav class = "navbar">
             <div class = "container">
                  <ul>
                     <li><a>Homepage</a></li>
                     <li><a>Browse a Job</a></li>
                     <li><a>Browse a Talent</a></li>
                     <li><a>Contact Us</a></li>
-                    <li><a>Sign In</a></li>
-                    <li><a href="\WT_Fall(25-26)\final\Project\signup.php">Sign Up</a></li>
+                    <li><a href="\WT_Fall(25-26)\final\Project\frontend\signin.php">Sign In</a></li>
+                    <li><a>Sign Up</a></li>
                 </ul>
             </div>
-           
         </nav>
-        <h2>Sign In</h2>
-        <form>
-            <label>Userename or Email</label>
-            <input type = "text">
-            <label>Password</label>
-            <input type = "Password">
-            <div>
-                <a>Forgot Password</a>
-            </div>
-            <button type = "submit">Sign In</button>
-        </form>
-        <p>Don't have an account?<a>Sign Up</a></p>
+
+
 
         <footer>
             <div class = "container">
